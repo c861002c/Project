@@ -2,10 +2,6 @@ html{
     margin:0;
     padding:0;
     padding-bottom: 20px;
-    background-image:linear-gradient(to bottom,rgba(255, 255, 255, 0.7) 20%, rgba(255, 255, 255,0.7) 60%), url(../images/2019012520252102.jpg);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
 }
 body{
     width:800px;
@@ -16,7 +12,11 @@ header{
     height:300px;
     font-size: 20px;
     color: white;
-    background-color: rgb(86, 122, 133);
+    background-image:linear-gradient(to bottom,rgba(255, 255, 255, 0.7) 20%, rgba(255, 255, 255,0.7) 60%), url(../images/2019012520252102.jpg);
+    background-color: rgb(153, 200, 214);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
 article{
     flex: 2;
@@ -46,5 +46,5 @@ footer{
     font-size: 20px;
     color: rgb(255, 255, 255);
     text-align: end;
-    background-color: rgb(86, 122, 133);
+    background-color: rgb(153, 200, 214);
 }
