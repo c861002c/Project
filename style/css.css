@@ -9,13 +9,12 @@ body{
 }
 header{
     width:800px;
-    height:300px;
-    font-size: 20px;
+    height:200px;
     color: white;
-    background-image:url(../images/基隆市政府形象圖.jpg);
+    background-image: url(../images/基隆市政府形象圖.jpg);
     background-color: rgb(51, 129, 231);
     background-size: cover;
-    background-position: top center;
+    background-position: center;
     background-repeat: no-repeat;
 }
 article{
