@@ -12,6 +12,7 @@ header{
     height:300px;
     font-size: 20px;
     color: white;
+    position: bottom right;
     background-image:url(../images/基隆市政府形象圖.jpg);
     background-color: rgb(153, 200, 214);
     background-size: cover;
