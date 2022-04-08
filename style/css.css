@@ -10,6 +10,7 @@ body{
 header{
     width:800px;
     height:200px;
+    font-size: 0.3rem;
     color: white;
     background-image: url(../images/基隆市政府形象圖.jpg);
     background-color: rgb(51, 129, 231);
