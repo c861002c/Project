@@ -12,9 +12,8 @@ header{
     height:300px;
     font-size: 20px;
     color: white;
-    position: bottom right;
     background-image:url(../images/基隆市政府形象圖.jpg);
-    background-color: rgb(153, 200, 214);
+    background-color: rgb(51, 129, 231);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -47,5 +46,5 @@ footer{
     font-size: 20px;
     color: rgb(255, 255, 255);
     text-align: end;
-    background-color: rgb(153, 200, 214);
+    background-color: rgb(51, 129, 231);
 }
